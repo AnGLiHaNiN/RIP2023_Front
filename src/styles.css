@@ -1,0 +1,8 @@
+.disabled-link {
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+.m-input-group-text {
+  width: 140px
+}
